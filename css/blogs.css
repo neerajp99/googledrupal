@@ -80,11 +80,11 @@ p {
     }
     .navbar-default .nav>li>a,
     .navbar-default .nav>li>a:focus {
-        color: #000;
+        color: #fff;
     }
     .navbar-default .nav>li>a:focus:hover,
     .navbar-default .nav>li>a:hover {
-        color: #000;
+        color: #fff;
     }
     .navbar-default.affix {
         background-color: #fff;
@@ -514,23 +514,3 @@ h5 {
         float: right;
     }
 }
-
-/*Scrollbar Starts*/
-
-::-webkit-scrollbar {
-    width: 12px;
-    /* for vertical scrollbars */
-    height: 12px;
-    /* for horizontal scrollbars */
-}
-
-::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0.1);
-}
-
-::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, 0.5);
-}
-
-
-/*Srollbar Ends*/
