@@ -397,6 +397,9 @@ body {
     justify-content: center;
     background: #999;
 }
+.wake>img:hover {
+    transform: translate(0, -5px) !important;
+}
 
 .wait > p {
     font-size: 17px;
