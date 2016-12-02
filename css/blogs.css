@@ -263,13 +263,13 @@ h {
     height: auto;
     overflow: hidden;
     width: 100%;
-    background: #fff;
+    background: rgba(39, 116, 167, 0.94);
 }
 
 h1 {
     position: relative;
     font-size: 30px;
-    color: #1F3236;
+    color: #fff;
     font-weight: 900;
     text-align: center;
     margin: 0 auto;
@@ -282,7 +282,7 @@ h1 {
     top: 10px;
     border: none;
     height: 2px;
-    background: #1F3236;
+    background: #fff;
 }
 
 .flow {

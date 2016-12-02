@@ -215,7 +215,7 @@ h {
 }
 
 .research {
-    background: #0C1021;
+    background: #156190;
     padding-top: 50px;
     /*  height: 85%;*/
     width: 100%;
@@ -260,7 +260,7 @@ p {
 }
 
 .column:nth-child(2) {
-    background: rgba(255, 255, 255, 0.05);
+    background: rgb(68, 129, 167);
 }
 
 .wait:nth-child(2) {
