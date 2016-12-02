@@ -1,7 +1,9 @@
 body,
 html {
     height: 100%;
-    width: 100%
+    width: 100%;
+
+    font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
 p {
@@ -24,7 +26,6 @@ p {
 
 .btn,
 .navbar-default .nav>li>a {
-    font-family: Lato, Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px
 }
@@ -79,11 +80,11 @@ p {
     }
     .navbar-default .nav>li>a,
     .navbar-default .nav>li>a:focus {
-        color: rgba(255, 255, 255, .7)
+        color: #000;
     }
     .navbar-default .nav>li>a:focus:hover,
     .navbar-default .nav>li>a:hover {
-        color: #fff
+        color: #000;
     }
     .navbar-default.affix {
         background-color: #fff;
@@ -220,7 +221,6 @@ h {
 }
 
 .subcenter >p {
-    font-family: Lato, Helvetica, Arial, sans-serif;
     text-align: center;
     font-size: 17px;
     color: #fff;
@@ -234,7 +234,6 @@ h {
     background: transparent;
     border: 3px solid #fff;
     font-size: 18px;
-    font-family: Lato, Helvetica, Arial, sans-serif;
     font-weight: 900;
     color: #fff;
     position: relative;
@@ -270,7 +269,6 @@ h {
 h1 {
     position: relative;
     font-size: 30px;
-    font-family: Lato, Helvetica, Arial, sans-serif;
     color: #1F3236;
     font-weight: 900;
     text-align: center;
@@ -337,7 +335,6 @@ h5 {
     text-align: center;
     margin: 0 auto;
     font-size: 20px;
-    font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
 .fa-2x {
@@ -456,7 +453,6 @@ h5 {
     text-transform: uppercase;
     line-height: 6em;
     margin-top: 10px;
-    font-family: 'Raleway', sans-serif;
     font-weight: 300;
     font-size: 80%;
 }
@@ -467,7 +463,6 @@ h5 {
     color: #666;
     text-transform: uppercase;
     line-height: 6em;
-    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 80%;
     margin-top: 10px;
@@ -488,7 +483,6 @@ h5 {
     margin-top: 0%;
     text-transform: uppercase;
     line-height: 6em;
-    font-family: 'Raleway', sans-serif;
     font-weight: 400;
     font-size: 80%;
     margin-top: 10px;

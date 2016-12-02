@@ -12,6 +12,7 @@ body {
     padding: 0;
     height: 100%;
     width: 100%;
+    font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -32,7 +33,6 @@ a {
 
 .btn,
 .navbar-default .nav>li>a {
-    font-family: Lato, Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px
 }
@@ -110,7 +110,6 @@ BLOGS STARTS*/
 
 .join-us {
     background-image: linear-gradient(118deg, #09070F, #060063);
-    
     height: 100vh;
     position: relative;
     padding-top: 238px;
@@ -214,7 +213,6 @@ h {
 }
 
 .subcenter >p {
-    font-family: Lato, Helvetica, Arial, sans-serif;
     text-align: center;
     font-size: 17px;
     color: #fff;
@@ -228,7 +226,6 @@ h {
     background: transparent;
     border: 3px solid #fff;
     font-size: 18px;
-    font-family: Lato, Helvetica, Arial, sans-serif;
     font-weight: 900;
     color: #fff;
     position: relative;
@@ -282,7 +279,6 @@ h {
     z-index: 10;
     bottom: 50px;
     opacity: 1;
-    
 }
 
 .li:after {
@@ -324,7 +320,6 @@ h8 {
     text-transform: uppercase;
     font-size: 25px;
     font-weight: bolder;
-    font-family: 'Josefin Slab', serif;
     top: 25%;
     opacity: 0;
     color: #242946;
@@ -342,7 +337,6 @@ h9 {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 400;
-    font-family: 'Josefin Slab', serif;
     top: 30%;
     font-weight: bold;
     opacity: 0;
@@ -398,7 +392,6 @@ h2 {
     color: #fff;
     text-align: center;
     position: relative;
-    font-family: 'Josefin Slab', serif;
 }
 
 @media (max-width:768px) {
@@ -466,14 +459,14 @@ h2 {
 }
 
 
-
 /*FOOTER*/
 
 .footer {
     left: 0px;
     bottom: 0px;
     height: 100px;
-    width: 100%;position: relative;
+    width: 100%;
+    position: relative;
     top: -20px;
     background: #0D1624;
 }
@@ -485,7 +478,6 @@ h2 {
     text-transform: uppercase;
     line-height: 6em;
     margin-top: 10px;
-    font-family: 'Raleway', sans-serif;
     font-weight: 300;
     font-size: 80%;
 }
@@ -496,7 +488,6 @@ h2 {
     color: #666;
     text-transform: uppercase;
     line-height: 6em;
-    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 80%;
     margin-top: 10px;
@@ -517,7 +508,6 @@ h2 {
     margin-top: 0%;
     text-transform: uppercase;
     line-height: 6em;
-    font-family: 'Raleway', sans-serif;
     font-weight: 400;
     font-size: 80%;
     margin-top: 10px;
@@ -549,6 +539,7 @@ h2 {
         float: right;
     }
 }
+
 
 /*Scrollbar Starts*/
 
