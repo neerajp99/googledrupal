@@ -1,0 +1,60 @@
+Details of the PSD's :
+
+
+Page 1 : HOMEPAGE (part of the main page)
+
+Font used: Raleway
+Background color : #156190
+
+--------------
+
+Page 2 : Recent Blogs and Announcements (part of the main page)
+(The page includes recent blogs and announcements and a link to all the blogs).
+
+Font used : Raleway
+{Left Side : Details and a link to the other page [BLOGS]}
+Background color : #073542
+
+{Right Side : Recent blogs}
+Background color : #115465 
+
+--------------
+
+Page 3 : BLOGS(It shows all the blogs , each section of the image has a link which points to each blog's content page)
+
+Font used : Raleway
+Background color : #337CAC
+
+
+--------------
+
+
+Page 4 : ALUMNI (shows the photo of all the alumni with their details on hover)
+
+Font used : Raleway
+Background color : #337CAC
+
+
+
+--------------
+
+
+Page 5 : CONTACT (gives the contact details and has links to GCI and GSoc Archives)
+
+Font used : Raleway
+Background color : #156190
+
+
+--------------
+
+
+
+Page6 : BlOG DETAIL ( this is a page linked by the image on Page 3 and shows the partcicular blog)
+
+Font-used : Raleway
+
+{Left Side}
+Background-color : #1B2325
+
+{Right Side}
+Background-color: #FFFFFF
